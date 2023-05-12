@@ -1,4 +1,4 @@
-<a href="https://github.com/K-tang-mkv/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=K-tang-mkv" align="right" height="158"/></a>
+<a href="https://github.com/K-tang-mkv/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=K-tang-mkv" align="right" height="128"/></a>
 - 🔥 **Hi, I’m Gant**
 - 💥 **I’m interested in a lot shit**
 - 🍣 **I’m currently learning a lot shit**
@@ -9,7 +9,6 @@
 <p align="center">
 <img src='https://github.com/SP-XD/SP-XD/raw/main/images/linux_rounded.gif?raw=true' width="280" />
 <a href="https://stats.hyochan.dev/en/stats/K-tang-mkv"><img src="https://stats.hyochan.dev/api/github-stats-advanced?login=K-tang-mkv" width="515" /></a>
-
 </div>
 
 ![count](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/K-tang-mkv)
