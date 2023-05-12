@@ -1,4 +1,4 @@
-<a href="https://github.com/K-tang-mkv/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=K-tang-mkv" align="right" height="168"/></a>
+<a href="https://github.com/K-tang-mkv/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=K-tang-mkv" align="right" height="158"/></a>
 - 🔥 **Hi, I’m Gant**
 - 💥 **I’m interested in a lot shit**
 - 🍣 **I’m currently learning a lot shit**
