@@ -1,5 +1,5 @@
 ## <div align="center">Specific AI 🚀 </div>
-<a href="https://github.com/K-tang-mkv/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=K-tang-mkv" width="50%"/></a>
+<a href="https://github-readme-stats.vercel.app/api?username=K-tang-mkv"><img src="https://github-readme-stats.vercel.app/api?username=K-tang-mkv" width="50%"/></a>
 <img width="42%"  src="https://github-readme-streak-stats.herokuapp.com/?user=K-tang-mkv&hide_border=true" />
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=https://github.com/K-tang-mkv" />
 <br/>
