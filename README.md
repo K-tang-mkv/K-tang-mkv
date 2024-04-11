@@ -12,13 +12,6 @@
 - 📫 **xtang2828@gmail.com**
 
 
-<div style="display: flex; justify-content: center;">
-<p align="center">
-<img src='https://github.com/SP-XD/SP-XD/raw/main/images/linux_rounded.gif?raw=true' width="280" />
-<a href="https://stats.hyochan.dev/en/stats/K-tang-mkv"><img src="https://stats.hyochan.dev/api/github-stats-advanced?login=K-tang-mkv" width="515" /></a>
-</div>
-
-
 <div align="center">
   
   <a href="https://github.com/K-tang-mkv" style="text-decoration:none;">
